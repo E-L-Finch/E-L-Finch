@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a PhD student at the University of Saskatchewan 
+Currently working on LC-MS metabolomics
+
 <!--
 **E-L-Finch/E-L-Finch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
